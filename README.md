@@ -4,5 +4,5 @@
 
 - [ ] Structured logging with Python
 - [ ] Filtering logs with jq
-- [ ] Filtering+Visualizing logs with Grafana
+- [ ] Filtering+visualizing logs with Grafana
 - [ ] Alerting using logs with Grafana
