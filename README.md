@@ -1,4 +1,4 @@
-# Logging For Lazy D evelopers
+# Logging For Lazy Developers
 
 ## Topics
 
