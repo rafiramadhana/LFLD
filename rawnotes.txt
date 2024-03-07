@@ -1,0 +1,4 @@
+# Install via docker compose (https://grafana.com/docs/loki/latest/setup/install/docker/)
+
+wget https://raw.githubusercontent.com/grafana/loki/v2.9.4/production/docker-compose.yaml -O docker-compose.yaml
+docker-compose -f docker-compose.yaml up
